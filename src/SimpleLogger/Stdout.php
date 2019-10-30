@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleLogger;
+namespace BigV\SimpleLogger;
 
 /**
  * Stdout logger

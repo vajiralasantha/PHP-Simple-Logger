@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleLogger;
+namespace BigV\SimpleLogger;
 
 use Psr\Log\AbstractLogger;
 use Psr\Log\LoggerAwareInterface;
