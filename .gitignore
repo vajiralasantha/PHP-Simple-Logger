@@ -1,0 +1,9 @@
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+*~
+*.lock
+vendor
+example.php
