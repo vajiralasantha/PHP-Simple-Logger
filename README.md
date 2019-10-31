@@ -1,4 +1,4 @@
-SimpleLogger
+PHP Simple Logger
 ============
 
 SimpleLogger is a PHP library to write logs.
@@ -9,13 +9,15 @@ SimpleLogger is a PHP library to write logs.
 - Author: Frédéric Guillot, Vajira Lasantha
 - License: MIT
 
+**Originally taken from fguillot/simpleLogger in order keep this libraly alive for PHP <= 7.0. The latest library from firehed/simplelogger does not support PHP <= 7.0.** 
+
 Usage
 -----
 
 ### Installation
 
 ```bash
-composer require vajiral/simple-logger @stable
+composer require vajiral/simple-logger
 ```
 
 ### Syslog
