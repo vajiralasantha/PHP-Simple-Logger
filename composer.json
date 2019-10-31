@@ -14,6 +14,8 @@
         "psr/log": "~1.0"
     },
     "autoload": {
-        "psr-0": {"BigV\\SimpleLogger\\": "src/"}
+        "psr-4": {
+            "BigV\\SimpleLogger\\": "src/"
+        }
     }
 }
